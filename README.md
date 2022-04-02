@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chloe-Moon
-- 👀 I’m interested in 
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning OpenCV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chloemoon914@gmail.com
