@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chloe-Moon
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning OpenCV
+- 🌱 I’m currently learning Elixir
 - 📫 How to reach me chloemoon914@gmail.com
 
 <!---
